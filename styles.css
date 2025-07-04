@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cagliostro&family=Creepster&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.header{
+    color: red;
+    font-family: creepster;
+    text-align: center;
+    font-size: xx-large;
+}
 *, *::after, *::before{
     box-sizing: border-box;
 }
